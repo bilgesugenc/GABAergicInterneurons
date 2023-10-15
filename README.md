@@ -1,5 +1,5 @@
 # GABAergicInterneurons
-Motivation 
+Abstract
 GABAergic interneurons regulate cortical neural networks by providing inhibitory inputs.
 Their loss or dysfunction in the cerebral cortex leads to neurodevelopmental disorders such
 as schizophrenia, autism spectrum disorders, and epilepsy. Therefore, there has been a
