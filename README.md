@@ -1,4 +1,4 @@
-# GABAergicInterneurons
+# GABAergic Interneurons
 Abstract
 
 GABAergic interneurons regulate cortical neural networks by providing inhibitory inputs.
