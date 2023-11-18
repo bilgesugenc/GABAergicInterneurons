@@ -1,5 +1,5 @@
 # GABAergic Interneurons
-Abstract
+## Abstract
 
 GABAergic interneurons regulate cortical neural networks by providing inhibitory inputs.
 Their loss or dysfunction in the cerebral cortex leads to neurodevelopmental disorders such
