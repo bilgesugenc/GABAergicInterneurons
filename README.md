@@ -21,9 +21,6 @@ Shi et al., 2012; Strano et al., 2020). Then, further optimization was performed
 SHH and WNT inhibitor, the type of WNT inhibitor, the presence of PMA, different cell densities 
 and different splitting days.
 
-<img width="1043" alt="Final protocol" src="https://github.com/bilgesugenc/GABAergicInterneurons/assets/147976764/1c829d65-d780-4ddb-82e7-f14610841f5c">
-
-
 ## Materials and methods 
 
 For the differentiations, Matrigel coated plates were used. Matrigel was diluted 1/300 in DMEM/F12. 6-well
