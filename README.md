@@ -52,6 +52,7 @@ induction was started by replacing medium with N2 media (Table 2) with 100ng/ml 
 to day 17. N2 media without SHH and PMA was used from day 19 to day 23.
 
 **Table 2: N2 media**
+<img width="958" alt="Table 2" src="https://github.com/bilgesugenc/GABAergicInterneurons/assets/147976764/f89878a6-32d8-4d44-83b2-e7d7d365e5d2">
 
 At day 24, 800,000 cells per cm2 were seeded onto Poly-D-lysine (PDL)/Laminin coated plates. PDL is diluted in
 1/50 in 1X PBS and coated for overnight. Next day, PDL is removed, and wells were washed with water 2-3 times.
