@@ -74,7 +74,6 @@ neuronal stages) for a panel of medial ganglionic eminence (MGE), GABAergic, and
 These showed a purity of up to 80% of my differentiation protocol indicated below (Figure 1).
 
 **Figure 1: Final protocol of GABAergic interneuron differentiation** 
-
 <img width="1043" alt="Final protocol" src="https://github.com/bilgesugenc/GABAergicInterneurons/assets/147976764/1c829d65-d780-4ddb-82e7-f14610841f5c">
 
 ## References 
