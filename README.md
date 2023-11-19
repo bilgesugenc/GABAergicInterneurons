@@ -23,6 +23,39 @@ and different splitting days.
 ## Materials and methods
 <img width="1043" alt="Final protocol" src="https://github.com/bilgesugenc/GABAergicInterneurons/assets/147976764/c6a98b08-43e2-455d-8631-deed49642d8d">
 
+For the differentiations, Matrigel coated plates were used. Matrigel was diluted 1/300 in DMEM/F12. 6-well
+plates containing 80% confluent iPSCs were washed once with 1X PBS and 500μl Accutase per well was added.
+After 5 minutes incubation, cells were collected to a falcon from the wells with addition of 1ml 1X PBS per well.
+Cells were centrifuged at 300 g for 4 minutes, supernatant was discarded and the cell pellet was re-suspended
+with mTeSR containing 1/1000 ROCKi.
+Four wells from 6-well plate were seeded into a 10cm dish. Next day, Dual SMAD inhibition was initiated by
+replacing media with N3 media (Table 1) with SMAD inhibitors (Shi et al., 2012).
+
+SMAD inhibitors (added at time of use, and stable for 5 days at 4°C)
+1. Dorsomorphin (Sigma Aldrich, P5499-5MG, 50mM stocks were prepared in DMSO): Use 1:5000 (1μM
+final)
+2. SB431542(Axon Medchem, 1661, 10mM stocks were prepared in DMSO): Use 1:1000 (10μM final)
+
+In addition to SMADi, 2μM WNT inhibitor XAV939 (Sigma Aldrich, X3004) was added (Close et al., 2017).
+The dual SMAD inhibition is the inhibition of BMP and TGF-beta pathways. It provides rapid and efficient
+production of neural progenitors from pluripotent stem cells. SB431542 is used as a TGF-beta/SMAD inhibitor.
+Dorsomorphin was added to inhibit BMP pathway. According to the literature, addition of WNT inhibitor results
+more MGE-like NKX2.1-positive progenitors (Strano et al., 2020). Therefore, WNT inhibitor 2μM XAV939 was
+added. The media was changed every day until day 10. After day 10, protocol of Close et al., were followed (Close
+et al., 2017). At day 10, 1,000,000 cells per cm2 were seeded onto Matrigel coated plates. At day 11, ventral
+induction was started by replacing medium with N2 media (Table 2) with 100ng/ml (5nM) SHH (Peprotech, 315-
+22), 1μM XAV939 and 0.5μM PMA (Sigma Aldrich, SML0868). Media was changed every two days from day 11
+to day 17. N2 media without SHH and PMA was used from day 19 to day 23.
+
+At day 24, 800,000 cells per cm2 were seeded onto Poly-D-lysine (PDL)/Laminin coated plates. PDL is diluted in
+1/50 in 1X PBS and coated for overnight. Next day, PDL is removed, and wells were washed with water 2-3 times.
+After wells were dried, laminin (1/200 in sterile 1X PBS) coating is performed. For neuronal differentiation,
+Sodium-L-Ascorbate, Adenosine 3ʹ,5ʹ-cyclic monophosphate (cAMP), Neurotrophin-3 (NT-3), Brain-derived
+neurotrophic factor (BDNF), and Glial cell line-derived neurotrophic factor (GDNF) were added into NBND media
+(Table 3) from day 25 on. Sodium-L-Ascorbate was added daily. The half of the medium was replaced every two
+days. At day 32, 200,000 cells per cm2 were plated onto PDL/Laminin coated plates. At day 33, medium was
+replaced with fresh NBND media.
+
 
 ## Results
 I verified the identity of cells via staining and RT-qPCR at different time points (progenitor and 
