@@ -15,7 +15,10 @@ Here I describe a protocol for generating cortical interneurons from hiPSCs towa
 ganglionic eminence (MGE)-derived ventral progenitors and further into GABAergic
 interneurons. I have established the protocol by comparing and combining several published
 protocols with the goal of achieving a high percentage of GABAergic interneurons which can
-also be scaled up to obtain a large number of cells. 
+also be scaled up to obtain a large number of cells (Close et al., 2017; Schuster et al., 2019; 
+Shi et al., 2012; Strano et al., 2020). Then, further optimization was performed: the dose of
+SHH and WNT inhibitor, the type of WNT inhibitor, the presence of PMA, different cell densities 
+and different splitting days.
 
 ## Materials and methods
 
