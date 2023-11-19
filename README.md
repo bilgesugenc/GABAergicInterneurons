@@ -21,6 +21,7 @@ SHH and WNT inhibitor, the type of WNT inhibitor, the presence of PMA, different
 and different splitting days.
 
 ## Materials and methods
+<img width="1043" alt="Final protocol" src="https://github.com/bilgesugenc/GABAergicInterneurons/assets/147976764/c6a98b08-43e2-455d-8631-deed49642d8d">
 
 
 ## Results
