@@ -28,3 +28,20 @@ and different splitting days.
 I verified the identity of cells via staining and RT-qPCR at different time points (progenitor and 
 neuronal stages) for a panel of medial ganglionic eminence (MGE), GABAergic, and neuronal markers. 
 These showed a purity of up to 80% of my differentiation protocol. 
+
+## References 
+1. Close, J. L., Yao, Z., Levi, B. P., Miller, J. A., Bakken, T. E., Menon, V., Ting, J. T., Wall, A., Krostag, A. R., Thomsen,
+E. R., Nelson, A. M., Mich, J. K., Hodge, R. D., Shehata, S. I., Glass, I. A., Bort, S., Shapovalova, N. V., Ngo,
+N. K., Grimley, J. S., . . . Lein, E. (2017). Single-Cell Profiling of an In Vitro Model of Human Interneuron
+Development Reveals Temporal Dynamics of Cell Type Production and Maturation. Neuron, 93(5),
+1035-1048.e1035. https://doi.org/10.1016/j.neuron.2017.02.014
+2. Schuster, J., Laan, L., Klar, J., Jin, Z., Huss, M., Korol, S., Noraddin, F. H., Sobol, M., Birnir, B., & Dahl, N. (2019).
+Transcriptomes of Dravet syndrome iPSC derived GABAergic cells reveal dysregulated pathways for
+chromatin remodeling and neurodevelopment. Neurobiol Dis, 132, 104583.
+https://doi.org/10.1016/j.nbd.2019.104583
+3. Shi, Y., Kirwan, P., & Livesey, F. J. (2012). Directed differentiation of human pluripotent stem cells to cerebral
+cortex neurons and neural networks. Nat Protoc, 7(10), 1836-1846.
+https://doi.org/10.1038/nprot.2012.116
+4. Strano, A., Tuck, E., Stubbs, V. E., & Livesey, F. J. (2020). Variable Outcomes in Neural Differentiation of Human
+PSCs Arise from Intrinsic Differences in Developmental Signaling Pathways. Cell Rep, 31(10), 107732.
+https://doi.org/10.1016/j.celrep.2020.107732
