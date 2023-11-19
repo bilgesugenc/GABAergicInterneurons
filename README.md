@@ -31,6 +31,8 @@ with mTeSR containing 1/1000 ROCKi.
 Four wells from 6-well plate were seeded into a 10cm dish. Next day, Dual SMAD inhibition was initiated by
 replacing media with N3 media (Table 1) with SMAD inhibitors (Shi et al., 2012).
 
+**Table 1: N3 media**
+
 SMAD inhibitors (added at time of use, and stable for 5 days at 4°C)
 1. Dorsomorphin (Sigma Aldrich, P5499-5MG, 50mM stocks were prepared in DMSO): Use 1:5000 (1μM
 final)
@@ -47,6 +49,8 @@ induction was started by replacing medium with N2 media (Table 2) with 100ng/ml 
 22), 1μM XAV939 and 0.5μM PMA (Sigma Aldrich, SML0868). Media was changed every two days from day 11
 to day 17. N2 media without SHH and PMA was used from day 19 to day 23.
 
+**Table 2: N2 media**
+
 At day 24, 800,000 cells per cm2 were seeded onto Poly-D-lysine (PDL)/Laminin coated plates. PDL is diluted in
 1/50 in 1X PBS and coated for overnight. Next day, PDL is removed, and wells were washed with water 2-3 times.
 After wells were dried, laminin (1/200 in sterile 1X PBS) coating is performed. For neuronal differentiation,
@@ -55,6 +59,8 @@ neurotrophic factor (BDNF), and Glial cell line-derived neurotrophic factor (GDN
 (Table 3) from day 25 on. Sodium-L-Ascorbate was added daily. The half of the medium was replaced every two
 days. At day 32, 200,000 cells per cm2 were plated onto PDL/Laminin coated plates. At day 33, medium was
 replaced with fresh NBND media.
+
+**Table 3: NBND media**
 
 
 ## Results
