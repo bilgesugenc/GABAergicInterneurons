@@ -32,6 +32,8 @@ Four wells from 6-well plate were seeded into a 10cm dish. Next day, Dual SMAD i
 replacing media with N3 media (Table 1) with SMAD inhibitors (Shi et al., 2012).
 
 **Table 1: N3 media**
+<img width="932" alt="Table 1" src="https://github.com/bilgesugenc/GABAergicInterneurons/assets/147976764/0310fde8-e217-4e1f-92f4-39af01639e36">
+
 
 SMAD inhibitors (added at time of use, and stable for 5 days at 4°C)
 1. Dorsomorphin (Sigma Aldrich, P5499-5MG, 50mM stocks were prepared in DMSO): Use 1:5000 (1μM
