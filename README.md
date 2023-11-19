@@ -23,6 +23,8 @@ and different splitting days.
 
 ## Materials and methods 
 
+<img width="1043" alt="Final protocol" src="https://github.com/bilgesugenc/GABAergicInterneurons/assets/147976764/3a730a65-c68a-42a0-a6fb-dc0450f42412">
+
 For the differentiations, Matrigel coated plates were used. Matrigel was diluted 1/300 in DMEM/F12. 6-well
 plates containing 80% confluent iPSCs were washed once with 1X PBS and 500μl Accutase per well was added.
 After 5 minutes incubation, cells were collected to a falcon from the wells with addition of 1ml 1X PBS per well.
