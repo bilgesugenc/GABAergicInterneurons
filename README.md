@@ -22,7 +22,6 @@ and different splitting days.
 
 ## Materials and methods
 
-/assets/Final protocol.png
 
 ## Results
 I verified the identity of cells via staining and RT-qPCR at different time points (progenitor and 
