@@ -11,6 +11,7 @@ development, which cannot be modeled in other species with lower complexity. Als
 in vitro-derived cells are good candidates for future therapeutic cell replacement therapies.
 
 ## Aim
+
 Here I describe a protocol for generating cortical interneurons from hiPSCs towards medial
 ganglionic eminence (MGE)-derived ventral progenitors and further into GABAergic
 interneurons. I have established the protocol by comparing and combining several published
@@ -20,8 +21,7 @@ Shi et al., 2012; Strano et al., 2020). Then, further optimization was performed
 SHH and WNT inhibitor, the type of WNT inhibitor, the presence of PMA, different cell densities 
 and different splitting days.
 
-## Materials and methods
-<img width="1043" alt="Final protocol" src="https://github.com/bilgesugenc/GABAergicInterneurons/assets/147976764/c6a98b08-43e2-455d-8631-deed49642d8d">
+## Materials and methods 
 
 For the differentiations, Matrigel coated plates were used. Matrigel was diluted 1/300 in DMEM/F12. 6-well
 plates containing 80% confluent iPSCs were washed once with 1X PBS and 500μl Accutase per well was added.
@@ -58,11 +58,13 @@ replaced with fresh NBND media.
 
 
 ## Results
+
 I verified the identity of cells via staining and RT-qPCR at different time points (progenitor and 
 neuronal stages) for a panel of medial ganglionic eminence (MGE), GABAergic, and neuronal markers. 
 These showed a purity of up to 80% of my differentiation protocol. 
 
 ## References 
+
 1. Close, J. L., Yao, Z., Levi, B. P., Miller, J. A., Bakken, T. E., Menon, V., Ting, J. T., Wall, A., Krostag, A. R., Thomsen,
 E. R., Nelson, A. M., Mich, J. K., Hodge, R. D., Shehata, S. I., Glass, I. A., Bort, S., Shapovalova, N. V., Ngo,
 N. K., Grimley, J. S., . . . Lein, E. (2017). Single-Cell Profiling of an In Vitro Model of Human Interneuron
