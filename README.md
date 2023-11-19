@@ -64,6 +64,7 @@ days. At day 32, 200,000 cells per cm2 were plated onto PDL/Laminin coated plate
 replaced with fresh NBND media.
 
 **Table 3: NBND media**
+<img width="936" alt="Table 3" src="https://github.com/bilgesugenc/GABAergicInterneurons/assets/147976764/1aed4017-84fa-4bdf-9496-3b971faba7ac">
 
 
 ## Results
