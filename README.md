@@ -21,7 +21,8 @@ SHH and WNT inhibitor, the type of WNT inhibitor, the presence of PMA, different
 and different splitting days.
 
 ## Materials and methods
-Final protocol.png
+
+/assets/Final protocol.png
 
 ## Results
 I verified the identity of cells via staining and RT-qPCR at different time points (progenitor and 
